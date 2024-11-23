@@ -1,6 +1,6 @@
 **UrbanRentals** - Online Car Rental Website
 
-Website Link: [UrbanRentals](https://urbanrentals.netlify.app/)
+Website Link: [UrbanRentals]([https://urbanrentals.netlify.app/](https://urban-rental.netlify.app/))
 
 Backend Source Code: [Server](https://urbanrentals-server.onrender.com/)
 
